@@ -1,6 +1,7 @@
 # ThemisAIWatchers
 Developers: Elizabeth "Ellie" Hechavarria, Grace Hechavarria, Monica Steinberg, and Shelly Penichet
 Caffeine intake: Ellie; 560mg, Grace: 120, Monica: 260, Shelly; 460
+
 Recommend Daily intake: 400mg :/
 
 # The Thought Process:
