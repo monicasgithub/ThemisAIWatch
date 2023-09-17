@@ -1,6 +1,6 @@
 # GitLog
 
-This is a the day in the life of the ThemisAIWatcher Team! We documented significant events during ShellHacks 2023! 
+This is a the day in the life of the Themis Team! We documented significant events during ShellHacks 2023! 
 
 ## How the team started!
 <img src="https://github.com/HandHeart/ThemisAIWatch/blob/fdbdcef73443100bef3f51b2f5e1879df3a881c8/How%20it%20started.jpg" width="300" height="300">
