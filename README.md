@@ -1,5 +1,7 @@
 # Themis
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eabf7afa-dd5d-4ea4-8f0d-4ad27fd8a4fb/deploy-status)](https://app.netlify.com/sites/themisaiwatch/deploys)
+
 ## Who&How?
 🤔Developers: Elizabeth "Ellie" Hechavarria, Grace Hechavarria, Monica Steinberg, and Shelly Penichet
 
@@ -47,6 +49,11 @@ be able to take pic of letter and evaluate that as well
 
 ## How to Use
  blah blah blah blah
+
+ Blanket.jpg
+
+ https://github.com/HandHeart/ThemisAIWatch/blob/1136984f976b80ee8b59130726900dec2314d63b/Blanket.jpg
+ 
 
 ## Resources
 ### Zyla API Hub: ChatGPT Text Detection
