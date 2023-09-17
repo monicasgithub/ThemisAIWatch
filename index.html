@@ -19,13 +19,20 @@
                 <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitat
                 <br>Lorem ipsum dolor!!
             </p>
-            <form action="/assets/upload.php" method="post" enctype="multipart/form-data">
+            <!-- <form action="upload.php" method="post" enctype="multipart/form-data">
                 <label for="photo-upload" style="cursor: pointer;">
-                    <img src="/assets/images/upload-image.png" alt="Upload" id="upload-button-image" width="90%" height="90%">
+                    <img src="/assets/images/upload-image.png" alt="Upload" id="upload-button-image">
                 </label>
                 <input type="file" name="photo" accept="image/*" id="photo-upload" style="display: none;">
+                <input type="hidden" name="redirect_url" value="themis_verdict.html">
                 <button type="submit" style="display: none;">Upload</button>
+            </form> -->
+            <form action="themis_verdict.html" method="get">
+                <button type="submit" class="hidden-button">
+                    <img src="/assets/images/upload-image.png" alt="Button Image">
+                </button>
             </form>
+
             
         </main>
     <footer>
