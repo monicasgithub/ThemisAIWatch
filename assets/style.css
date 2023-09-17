@@ -87,9 +87,6 @@ main p{
     /* font-size: large; */
 }
 
-#lang #dis{
-    color: yellow;
-}
 
 .stats-items{
     display: flex;
@@ -98,7 +95,12 @@ main p{
     align-items: center;
 }
 
-#lang-err, #discrepency-error, #percent-err{
+#lang-err, #discrepency-error{
+    font-size: 4em;
+    color: yellow;
+}
+
+#percent-err{
     font-size: 4em;
 }
 
