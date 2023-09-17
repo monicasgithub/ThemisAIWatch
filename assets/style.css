@@ -5,6 +5,7 @@
 
 html{
     scroll-behavior: smooth;
+    background-color: #212121;
 }
 
 html, body {
@@ -21,6 +22,7 @@ body {
     background-attachment: fixed;
     background-position: bottom right; /* Adjust the position as needed */
     font-family: 'Kulim Park';
+    background-color: #f0f0f0;
 }
 
 #logo-image{
@@ -32,9 +34,20 @@ body {
 header{
     min-height: 10vh;
 }
-main{
+
+#main-upload{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: left;
     min-height: 90vh;
-    padding: 1em;
+    padding-left: 1em;
+    width: 50%;
+    margin-left: 10em;
+}
+
+main p{
+    font-size: larger;
 }
 
 #stats-verdict{
@@ -114,6 +127,10 @@ img .screenshot{
     display: flex;
     background-color: #212121;
     color:#f0f0f0;
+}
+
+form{
+    margin-top: 0;
 }
 
 footer {
