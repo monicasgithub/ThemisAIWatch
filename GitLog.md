@@ -59,3 +59,12 @@ This is a the day in the life of the Themis Team! We documented significant even
 
 ## Getting help from a Mentor! Thank you so much!!!!
 <img src="https://github.com/HandHeart/ThemisAIWatch/blob/44b7edcbda7255b717ba14ba9d27d29ede6e7988/gitlog/mentor.jpg" width="300" height="300">
+
+
+
+## Getting help from a Mentor! Thank you so much!!!!
+<img src="https://github.com/HandHeart/ThemisAIWatch/blob/68b5d5db27650b7410ca5b138754d9b926f99851/IMG_9370.jpg" width="300" height="300">
+
+
+## We are so done!!!
+<img src="https://github.com/HandHeart/ThemisAIWatch/blob/68b5d5db27650b7410ca5b138754d9b926f99851/gitlog/done.jpg" width="300" height="300">
