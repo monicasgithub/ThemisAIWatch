@@ -17,7 +17,7 @@
             <section id="stats-verdict">
                 <section id="verdict" class="dark-background">
                     <!-- verdict -->
-                    <h2>valid</h2>
+                    <h2 id="verdict-text">Evaluating</h2>
                 </section>
                 <div class="dark-background" id="stats">
                     <div class="stats-items" id="lang">
@@ -34,7 +34,7 @@
                     <img src="assets/images/Line.png" class="line"></img>
                     <div class="stats-items" id="per">
                         <!-- percentage of ai generated -->
-                        <p id="percent-err">98%</p>
+                        <p id="percent-err">0%</p>
                         <p class="err-title">ai generated</p>
                     </div>
                 </div>
@@ -52,9 +52,15 @@
                     </p>
                 </section>
                 
-                <div class="backbutton">
-                    <img src="/assets/images/backbutton.png">
-                </div>
+                <section id="back-form">
+                    <form action="index.html" method="get">
+                        <button type="submit" class="hidden-button">
+                            <img src="/assets/images/backbutton.png" width="75%" height="75%" alt="Button Image">
+                        </button>
+                    </form>
+                    <p id="back-label">BACK</p>
+                </section>
+                
             </section>
         
 
@@ -67,5 +73,7 @@
             <p class="footerText">Themis &copy; 2023</p>
             <p class="footerText">Ellie Hechavarria | Grace Hechavarria | Monica Steinberg | Shelly Penichet</p>
         </footer>
+
+        <script src="./assets/script.js"></script>
 </body>
 </html>
