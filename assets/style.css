@@ -5,7 +5,7 @@
 
 html{
     scroll-behavior: smooth;
-    background-color: #212121;
+    /* background-color: #212121; */
 }
 
 html, body {
@@ -44,6 +44,25 @@ header{
     padding-left: 1em;
     width: 50%;
     margin-left: 10em;
+}
+
+.hidden-button {
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+#back-form {
+    display: flex;
+    align-items: center;
+    /* margin-top: 20px; Adjust the top margin as needed */
+}
+
+#back-label {
+    font-size: 2.75em !important;
+    font-weight:bolder;
+    margin: 0;
 }
 
 main p{
@@ -87,6 +106,7 @@ main p{
     /* font-size: large; */
 }
 
+
 .stats-items{
     display: flex;
     flex-direction: column;
@@ -94,7 +114,12 @@ main p{
     align-items: center;
 }
 
-#lang-err, #discrepency-error, #percent-err{
+#lang-err, #discrepency-error{
+    font-size: 4em;
+    color: yellow;
+}
+
+#percent-err{
     font-size: 4em;
 }
 
