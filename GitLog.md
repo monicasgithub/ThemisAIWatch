@@ -55,3 +55,7 @@ This is a the day in the life of the Themis Team! We documented significant even
 
 ## Didn't win...but we got stickers!
 <img src="https://github.com/HandHeart/ThemisAIWatch/blob/fdbdcef73443100bef3f51b2f5e1879df3a881c8/Stickers.jpg" width="300" height="300">
+
+
+## Getting help from a Mentor! Thank you so much!!!!
+<img src="https://github.com/HandHeart/ThemisAIWatch/blob/44b7edcbda7255b717ba14ba9d27d29ede6e7988/gitlog/mentor.jpg" width="300" height="300">
