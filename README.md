@@ -43,9 +43,17 @@ scan email to...
 ## The Future
 Check if email contents indicates a scam
 
-Check representative signature -> is the message signed by an actual representative of Captial One
+Cross-reference with verified sources -> is the message signed by an actual representative of Captial One
 once verdict is reached, recommend to get in contact with actual representative
 be able to take pic of letter and evaluate that as well
+
+Recognize images, videos, and voice messages that were generated using deep fake technology
+
+Create a risk analysis to keep user informed about what personal info has been compromised and is used against them for scams
+
+Automatically create database to collect evidence for law enforcement
+
+
 
 ## How to Use
  blah blah blah blah
@@ -56,10 +64,11 @@ be able to take pic of letter and evaluate that as well
  
 
 ## Resources
-### Zyla API Hub: ChatGPT Text Detection
-https://zylalabs.com/api-marketplace/nlp/chat+gpt+text+detection+api/1882#:~:text=trustworthy%20language%20models.-,The%20Chat%20GPT%20Text%20Detection%20API%20can%20be%20used%20to,and%20reliable%20information%20to%20users
-
 ### Google Cloud Vision
 https://cloud.google.com/vision/docs/ocr
+
+### Zyla API Hub: AI Text Detection API
+https://zylalabs.com/api-marketplace/machine%20learning/AI+Text+Detection+API/1975/#pricing
+
 
 
