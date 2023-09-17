@@ -5,54 +5,67 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Themis Verdict</title>
     <meta name="description" content="A simple web page">
+    <link href='https://fonts.googleapis.com/css?family=Kulim Park' rel='stylesheet'>
     <link rel="stylesheet" href="assets/style.css"> <!-- You can link your CSS file here -->
 </head>
 <body>
-    <header>
-        <h1>Themis</h1>
-    </header>
+        <header>
+            <img src="/assets/images/logo-themis.svg" alt="themis logo" id="logo-image">
+        </header>
+        
+        <main id="info-verdict">
+            <section id="stats-verdict">
+                <section id="verdict" class="dark-background">
+                    <!-- verdict -->
+                    <h2>valid</h2>
+                </section>
+                <div class="dark-background" id="stats">
+                    <div class="stats-items" id="lang">
+                        <!-- language errors -->
+                        <p id="lang-err">10</p>
+                        <p class="err-title">language errors</p>
+                    </div>
+                    <img src="assets/images/Line.png" class="line"></img>
+                    <div class="stats-items" id="dis">
+                        <!-- discrepencies -->
+                        <p id="discrepency-error">4</p>
+                        <p class="err-title">discrepencies</p>
+                    </div>
+                    <img src="assets/images/Line.png" class="line"></img>
+                    <div class="stats-items" id="per">
+                        <!-- percentage of ai generated -->
+                        <p id="percent-err">98%</p>
+                        <p class="err-title">ai generated</p>
+                    </div>
+                </div>
 
-    <main>
-            <section class="dark-background">
-                <!-- verdict -->
-                <h2>valid</h2>
+                <section>
+                    <p> 
+                        Please do not rely solely on the verdict, and please contact your local branch to verify the validity of the email before further contact. Below is the contact information of a branch near you.
+                    </p>
+                    <br>
+                    <p>
+                        000-000-0000<br>
+                        email@domain.com<br>
+                        0000 NE 111 AVE<br>
+                        Biscayne Bay, Fl 2233
+                    </p>
+                </section>
+                
+                <div class="backbutton">
+                    <img src="/assets/images/backbutton.png">
+                </div>
             </section>
-            <section class="dark-background">
-                <div>
-                    <!-- language errors -->
-                    <p id="lang-err">10</p>
-                    <p class="err-title">language errors</p>
-                </div>
-                <div>
-                    <!-- discrepencies -->
-                    <p id="discrepency">4</p>
-                    <p class="err-title">discrepencies</p>
-                </div>
-                <div>
-                    <!-- percentage of ai generated -->
-                    <p id="percent-err">98%</p>
-                    <p class="err-title">ai generated</p>
-                </div>
+        
 
-                <p> 
-                    contact someone from the company for verification...
-                </p>
-                <p>
-                    000-000-0000<br>
-                    email@domain.com<br>
-                    0000 NE 111 AVE<br>
-                    Biscayne Bay, Fl 2233
-                </p>
-            </section>
-            <button></button>
+        <!-- <section id="image-verdict">
+            <img id="screenshot" src="/assets/images/background.png" alt="">
+        </section> -->
+        </main>
 
-        <section>
-            <!-- image -->
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2023 My Web Page</p>
-    </footer>
+        <footer>
+            <p class="footerText">Themis &copy; 2023</p>
+            <p class="footerText">Ellie Hechavarria | Grace Hechavarria | Monica Steinberg | Shelly Penichet</p>
+        </footer>
 </body>
 </html>
