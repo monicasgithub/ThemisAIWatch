@@ -1,6 +1,6 @@
 # Themis
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/eabf7afa-dd5d-4ea4-8f0d-4ad27fd8a4fb/deploy-status)](https://app.netlify.com/sites/themisaiwatch/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ab37a308-944a-4705-bb68-779570ffbef1/deploy-status)](https://app.netlify.com/sites/themis-ai/deploys)
 
 ## Who&How?
 🤔Developers: Elizabeth "Ellie" Hechavarria, Grace Hechavarria, Monica Steinberg, and Shelly Penichet
