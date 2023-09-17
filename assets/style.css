@@ -97,7 +97,6 @@ main p{
 
 #lang-err, #discrepency-error{
     font-size: 4em;
-    color: yellow;
 }
 
 #percent-err{
