@@ -32,16 +32,18 @@ fetch(apiUrl, requestOptions)
   })
   .then((data) => {
     // Handle the response data from the API
-    const result = data.is_gpt_generated;
+    const result = Math.floor(data.is_gpt_generated);
 
     // Get a reference to the element where you want to display the result
-    const resultElement = document.getElementById('result');
+    const verdictElement = document.getElementById('result');
+    const percentElement = document.getElementById('percent-err');
+    const descriptionElement = document.getElementById('description');
 
     // Display content based on the 'result' value
-    if (result > 30) {
-      resultElement.textContent = 'Scam: This is a potentially fraudulent text.';
-    } else if (result <= 30) {
-      resultElement.textContent = 'Real: This text appears to be legitimate.';
+    if (result > 50) {
+      verdictElement.textContent = 'Scam: This is a potentially fraudulent text.';
+    } else if (result <= 50) {
+      verdictElement.textContent = 'Real: This text appears to be legitimate.';
     }
   })
   .catch((error) => {
