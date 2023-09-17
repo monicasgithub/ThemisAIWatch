@@ -87,6 +87,10 @@ main p{
     /* font-size: large; */
 }
 
+#lang #dis{
+    color: yellow;
+}
+
 .stats-items{
     display: flex;
     flex-direction: column;
