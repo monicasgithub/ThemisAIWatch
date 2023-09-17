@@ -49,10 +49,6 @@ be able to take pic of letter and evaluate that as well
 
 ## How to Use
  blah blah blah blah
-
- Blanket.jpg
-
- https://github.com/HandHeart/ThemisAIWatch/blob/1136984f976b80ee8b59130726900dec2314d63b/Blanket.jpg
  
 
 ## Resources
