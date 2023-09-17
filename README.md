@@ -5,7 +5,7 @@
 ## Who&How?
 🤔Developers: Elizabeth "Ellie" Hechavarria, Grace Hechavarria, Monica Steinberg, and Shelly Penichet
 
-☕ Caffeine intake: Ellie; 760mg, Grace: 120, Monica: 604, Shelly; 660
+☕ Caffeine intake: Ellie; 760mg, Grace: 520, Monica: 704, Shelly; 860
 
 ⚰️ Recommend Daily intake: 400mg :/
 
@@ -57,10 +57,6 @@ Automatically create database to collect evidence for law enforcement
 
 ## How to Use
  blah blah blah blah
-
- Blanket.jpg
-
- https://github.com/HandHeart/ThemisAIWatch/blob/1136984f976b80ee8b59130726900dec2314d63b/Blanket.jpg
  
 
 ## Resources
