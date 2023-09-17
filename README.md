@@ -5,7 +5,7 @@
 ## Who&How?
 🤔Developers: Elizabeth "Ellie" Hechavarria, Grace Hechavarria, Monica Steinberg, and Shelly Penichet
 
-☕ Caffeine intake: Ellie; 760mg, Grace: 520, Monica: 704, Shelly; 660
+☕ Caffeine intake: Ellie; 760mg, Grace: 520, Monica: 704, Shelly; 860
 
 ⚰️ Recommend Daily intake: 400mg :/
 
